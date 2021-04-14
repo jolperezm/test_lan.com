@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Falabella_Pos:war">
+    <output-path>$PROJECT_DIR$/esquema-pom/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Falabella_Pos</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Falabella_Pos-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Falabella_Pos:war exploded" />
+    </root>
+  </artifact>
+</component>

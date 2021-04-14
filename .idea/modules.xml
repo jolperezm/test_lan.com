@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Esquema-pom.iml" filepath="$PROJECT_DIR$/.idea/Esquema-pom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esquema-pom/Falabella_Pos.iml" filepath="$PROJECT_DIR$/esquema-pom/Falabella_Pos.iml" />
+    </modules>
+  </component>
+</project>

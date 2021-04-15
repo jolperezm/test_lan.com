@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18e0f4f9-11c3-4d82-a225-50f734312a80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/esquema-pom" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/esquema-pom/Falabella_Pos.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/esquema-pom/src/test/java/Lan/com/test.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
@@ -158,7 +157,7 @@
       <workItem from="1618279758209" duration="1030000" />
       <workItem from="1618280808684" duration="2441000" />
       <workItem from="1618361603719" duration="7527000" />
-      <workItem from="1618443928690" duration="1979000" />
+      <workItem from="1618443928690" duration="5255000" />
     </task>
     <servers />
   </component>

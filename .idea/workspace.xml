@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18e0f4f9-11c3-4d82-a225-50f734312a80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/esquema-pom" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/esquema-pom/Falabella_Pos.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/esquema-pom/src/test/java/Lan/com/test.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
@@ -55,14 +56,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Cucumber Java.Feature: test">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Cucumber Java.Scenario: Busco un vuelo nacional (1)">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,10 +141,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Feature: test" />
+      <item itemvalue="Cucumber Java.Scenario: Busco un vuelo nacional" />
+      <item itemvalue="Cucumber Java.Scenario: Busco un vuelo nacional (1)" />
+      <item itemvalue="JUnit.Test" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber Java.Feature: test" />
         <item itemvalue="Cucumber Java.Scenario: Busco un vuelo nacional (1)" />
+        <item itemvalue="Cucumber Java.Feature: test" />
         <item itemvalue="Cucumber Java.Scenario: Busco un vuelo nacional" />
       </list>
     </recent_temporary>
@@ -157,7 +166,10 @@
       <workItem from="1618279758209" duration="1030000" />
       <workItem from="1618280808684" duration="2441000" />
       <workItem from="1618361603719" duration="7527000" />
-      <workItem from="1618443928690" duration="5255000" />
+      <workItem from="1618443928690" duration="5414000" />
+      <workItem from="1618531508450" duration="1549000" />
+      <workItem from="1618533149019" duration="225000" />
+      <workItem from="1618533574754" duration="4009000" />
     </task>
     <servers />
   </component>
@@ -165,7 +177,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Esquema_pom$Scenario__Busco_un_vuelo_nacional__1_.ic" NAME="Scenario: Busco un vuelo nacional (1) Coverage Results" MODIFIED="1618444781520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Esquema_pom$Scenario__Busco_un_vuelo_nacional__1_.ic" NAME="Scenario: Busco un vuelo nacional (1) Coverage Results" MODIFIED="1618535176960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>cucumber.api.cli.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Esquema_pom$Feature__test.ic" NAME="Feature: test Coverage Results" MODIFIED="1618444816603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

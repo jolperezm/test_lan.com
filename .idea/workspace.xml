@@ -56,20 +56,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: Busco un vuelo nacional (1)">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Test">
     <configuration name="Feature: test" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/esquema-pom/src/test/java/Lan/com/test.feature" />
@@ -169,7 +156,9 @@
       <workItem from="1618443928690" duration="5414000" />
       <workItem from="1618531508450" duration="1549000" />
       <workItem from="1618533149019" duration="225000" />
-      <workItem from="1618533574754" duration="4009000" />
+      <workItem from="1618533574754" duration="5344000" />
+      <workItem from="1618584543567" duration="312000" />
+      <workItem from="1618588020258" duration="182000" />
     </task>
     <servers />
   </component>

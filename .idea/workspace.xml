@@ -8,6 +8,7 @@
       <change afterPath="$PROJECT_DIR$/esquema-pom/Falabella_Pos.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/esquema-pom/src/test/java/Lan/com/test.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/esquema-pom" beforeDir="false" afterPath="$PROJECT_DIR$/esquema-pom" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/esquema-pom/src/test/java/google/test.feature" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/esquema-pom/src/test/java/pom/PaginaInicioPo.java" beforeDir="false" afterPath="$PROJECT_DIR$/esquema-pom/src/test/java/pom/PaginaInicioPo.java" afterDir="false" />
@@ -63,6 +64,17 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager" selected="JUnit.Test">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Feature: test" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/esquema-pom/src/test/java/Lan/com/test.feature" />
@@ -166,7 +178,7 @@
       <workItem from="1618584543567" duration="312000" />
       <workItem from="1618588020258" duration="182000" />
       <workItem from="1618588257463" duration="875000" />
-      <workItem from="1618613979412" duration="4119000" />
+      <workItem from="1618613979412" duration="5295000" />
     </task>
     <servers />
   </component>

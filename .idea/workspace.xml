@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18e0f4f9-11c3-4d82-a225-50f734312a80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/esquema-pom" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/esquema-pom/Falabella_Pos.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/esquema-pom/src/test/java/Lan/com/test.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/esquema-pom" beforeDir="false" afterPath="$PROJECT_DIR$/esquema-pom" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/esquema-pom/src/test/java/google/test.feature" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/esquema-pom/src/test/java/pom/PaginaInicioPo.java" beforeDir="false" afterPath="$PROJECT_DIR$/esquema-pom/src/test/java/pom/PaginaInicioPo.java" afterDir="false" />
@@ -168,7 +166,7 @@
       <workItem from="1618584543567" duration="312000" />
       <workItem from="1618588020258" duration="182000" />
       <workItem from="1618588257463" duration="875000" />
-      <workItem from="1618613979412" duration="3803000" />
+      <workItem from="1618613979412" duration="4119000" />
     </task>
     <servers />
   </component>

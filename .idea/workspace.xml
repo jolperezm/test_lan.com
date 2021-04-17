@@ -35,6 +35,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/esquema-pom" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedIndex" value="1" />
   </component>
@@ -159,6 +167,8 @@
       <workItem from="1618533574754" duration="5344000" />
       <workItem from="1618584543567" duration="312000" />
       <workItem from="1618588020258" duration="182000" />
+      <workItem from="1618588257463" duration="875000" />
+      <workItem from="1618613979412" duration="3803000" />
     </task>
     <servers />
   </component>

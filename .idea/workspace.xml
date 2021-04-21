@@ -8,7 +8,17 @@
       <change afterPath="$PROJECT_DIR$/esquema-pom/Falabella_Pos.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/esquema-pom/src/test/java/Lan/com/test.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/esquema-pom" beforeDir="false" afterPath="$PROJECT_DIR$/esquema-pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esquema-pom/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/esquema-pom/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/esquema-pom/src/test/java/google/test.feature" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/esquema-pom/src/test/java/pom/PaginaInicioPo.java" beforeDir="false" afterPath="$PROJECT_DIR$/esquema-pom/src/test/java/pom/PaginaInicioPo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/esquema-pom/src/test/java/runner/testrunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/esquema-pom/src/test/java/runner/testrunner.java" afterDir="false" />
@@ -63,6 +73,17 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager" selected="JUnit.Test">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Feature: test" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/esquema-pom/src/test/java/Lan/com/test.feature" />
@@ -169,7 +190,7 @@
       <workItem from="1618613979412" duration="5800000" />
       <workItem from="1618961858419" duration="25000" />
       <workItem from="1618961902743" duration="1894000" />
-      <workItem from="1618963927537" duration="707000" />
+      <workItem from="1618963927537" duration="1050000" />
     </task>
     <servers />
   </component>
